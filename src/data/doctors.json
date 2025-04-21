@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Dr. Ana López",
+      "specialty": "Cardiology",
+      "rating": 4.5,
+      "availability": ["Monday 9am", "Tuesday 2pm"],
+      "location": "Mexico City",
+      "photo": "src/resources/images/cardio.webp"
+    },
+    {
+      "id": 2,
+      "name": "Dr. José Martínez",
+      "specialty": "Dermatology",
+      "rating": 4.8,
+      "availability": ["Wednesday 10am", "Friday 3pm"],
+      "location": "Guadalajara",
+      "photo": "src/resources/images/derma.webp"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Manuel García",
+      "specialty": "Dentistry",
+      "rating": 4.7,
+      "availability": ["Thursday 11am", "Saturday 1pm"],
+      "location": "Monterrey",
+      "photo": "src/resources/images/dentist.webp"
+    },
+    {
+      "id": 4,
+      "name": "Dr. Laura Fernández",
+      "specialty": "Pediatrics",
+      "rating": 4.9,
+      "availability": ["Monday 10am", "Thursday 4pm"],
+      "location": "Puebla",
+      "photo": "src/resources/images/pedia.webp"
+    },
+    {
+      "id": 5,
+      "name": "Dr. Ricardo Torres",
+      "specialty": "Neurology",
+      "rating": 4.6,
+      "availability": ["Tuesday 9am", "Friday 2pm"],
+      "location": "Tijuana",
+      "photo": "src/resources/images/neuro.webp"
+    },
+    {
+      "id": 6,
+      "name": "Dr. Sergio Ramírez",
+      "specialty": "Psychiatry",
+      "rating": 4.8,
+      "availability": ["Wednesday 1pm", "Saturday 10am"],
+      "location": "Querétaro",
+      "photo": "src/resources/images/psych.webp"
+    }
+  ]
+  
