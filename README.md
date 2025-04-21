@@ -6,12 +6,15 @@ A simple React application for browsing doctors by specialty and availability, a
 
 **Clone the repository**
 
-   git clone ssh git@github.com:pakorockdriguez/doctor-booking.git
-   cd doctor-booking
+git clone https://github.com/pakorockdriguez/doctor-booking.git   
+
+cd doctor-booking
 
 ## Install dependencies
 npm install
-npm start   
+npm run dev   
+
+** NOTE MUST HAVE VITE INSTALLED
 
 ## 🤖 Built with help from AI tools
 
