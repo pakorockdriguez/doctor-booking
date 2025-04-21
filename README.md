@@ -6,13 +6,12 @@ A simple React application for browsing doctors by specialty and availability, a
 
 **Clone the repository**
 
-   ```bash
-   git clone https://github.com/your-username/doctor-booking.git
+   git clone ssh git@github.com:pakorockdriguez/doctor-booking.git
    cd doctor-booking
 
 ## Install dependencies
 npm install
-npm start
+npm start   
 
 ## 🤖 Built with help from AI tools
 
